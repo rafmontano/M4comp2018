@@ -10,6 +10,7 @@ and the submitted forecasts of the top25 participants.
 ## Installation
 
 ``` r
+# install.packages("devtools")
 devtools::install_github("rafmontano/M4comp2018")
 ```
 

@@ -19,6 +19,7 @@ The R package M4comp2018 contains the 100000 time series from the M4-competition
 ## Installation
 
 ```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
 devtools::install_github("rafmontano/M4comp2018")
 ```
 
